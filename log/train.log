@@ -1,0 +1,52 @@
+2019-10-10 20:31:34,388 - log\train.log - INFO - num_tags       :	7
+2019-10-10 20:31:34,388 - log\train.log - INFO - lstm_dim       :	200
+2019-10-10 20:31:34,388 - log\train.log - INFO - batch_size     :	2
+2019-10-10 20:31:34,388 - log\train.log - INFO - max_seq_len    :	128
+2019-10-10 20:31:34,388 - log\train.log - INFO - clip           :	5.0
+2019-10-10 20:31:34,388 - log\train.log - INFO - dropout_keep   :	0.5
+2019-10-10 20:31:34,389 - log\train.log - INFO - optimizer      :	adam
+2019-10-10 20:31:34,389 - log\train.log - INFO - lr             :	0.001
+2019-10-10 20:31:34,389 - log\train.log - INFO - tag_schema     :	iob
+2019-10-10 20:31:34,389 - log\train.log - INFO - zeros          :	False
+2019-10-10 20:31:34,389 - log\train.log - INFO - lower          :	True
+2019-10-10 20:31:59,181 - log\train.log - INFO - Created model with fresh parameters.
+2019-10-10 20:32:13,967 - log\train.log - INFO - start training
+2019-10-10 20:33:11,477 - log\train.log - INFO - iteration:1 step:100/23196, NER loss:31.083714
+2019-10-10 20:33:55,231 - log\train.log - INFO - iteration:1 step:200/23196, NER loss:24.510609
+2019-10-10 20:34:36,228 - log\train.log - INFO - iteration:1 step:300/23196, NER loss:19.979065
+2019-10-10 20:35:17,703 - log\train.log - INFO - iteration:1 step:400/23196, NER loss:19.987831
+2019-10-10 20:35:58,089 - log\train.log - INFO - iteration:1 step:500/23196, NER loss:17.930733
+2019-10-10 20:36:38,286 - log\train.log - INFO - iteration:1 step:600/23196, NER loss:18.634432
+2019-10-10 20:37:19,053 - log\train.log - INFO - iteration:1 step:700/23196, NER loss:18.068146
+2019-10-10 20:37:59,344 - log\train.log - INFO - iteration:1 step:800/23196, NER loss:16.002319
+2019-10-10 20:38:41,070 - log\train.log - INFO - iteration:1 step:900/23196, NER loss:17.353611
+2019-10-10 20:39:21,886 - log\train.log - INFO - iteration:1 step:1000/23196, NER loss:15.768302
+2019-10-10 20:40:03,552 - log\train.log - INFO - iteration:1 step:1100/23196, NER loss:16.918377
+2019-10-10 20:40:45,287 - log\train.log - INFO - iteration:1 step:1200/23196, NER loss:14.522111
+2019-10-10 20:41:25,268 - log\train.log - INFO - iteration:1 step:1300/23196, NER loss:13.644840
+2019-10-10 20:42:05,697 - log\train.log - INFO - iteration:1 step:1400/23196, NER loss:13.759472
+2019-10-10 20:42:45,335 - log\train.log - INFO - iteration:1 step:1500/23196, NER loss:15.196604
+2019-10-10 20:43:26,589 - log\train.log - INFO - iteration:1 step:1600/23196, NER loss:11.952673
+2019-10-10 20:44:06,635 - log\train.log - INFO - iteration:1 step:1700/23196, NER loss:11.775281
+2019-10-10 20:44:47,733 - log\train.log - INFO - iteration:1 step:1800/23196, NER loss:13.135977
+2019-10-10 20:45:27,414 - log\train.log - INFO - iteration:1 step:1900/23196, NER loss:11.511057
+2019-10-10 20:46:08,275 - log\train.log - INFO - iteration:1 step:2000/23196, NER loss:13.341313
+2019-10-10 20:46:48,988 - log\train.log - INFO - iteration:1 step:2100/23196, NER loss:13.390232
+2019-10-10 20:47:28,957 - log\train.log - INFO - iteration:1 step:2200/23196, NER loss:11.709903
+2019-10-10 20:48:10,026 - log\train.log - INFO - iteration:1 step:2300/23196, NER loss:11.625932
+2019-10-10 20:48:52,878 - log\train.log - INFO - iteration:1 step:2400/23196, NER loss:11.514828
+2019-10-10 20:49:34,229 - log\train.log - INFO - iteration:1 step:2500/23196, NER loss: 9.187013
+2019-10-10 20:50:17,500 - log\train.log - INFO - iteration:1 step:2600/23196, NER loss:12.346435
+2019-10-10 20:50:59,508 - log\train.log - INFO - iteration:1 step:2700/23196, NER loss:10.675994
+2019-10-10 20:51:39,135 - log\train.log - INFO - iteration:1 step:2800/23196, NER loss:11.159259
+2019-10-10 20:52:19,902 - log\train.log - INFO - iteration:1 step:2900/23196, NER loss:10.147883
+2019-10-10 20:52:59,812 - log\train.log - INFO - iteration:1 step:3000/23196, NER loss:10.633965
+2019-10-10 20:53:40,828 - log\train.log - INFO - iteration:1 step:3100/23196, NER loss:12.799938
+2019-10-10 20:54:21,649 - log\train.log - INFO - iteration:1 step:3200/23196, NER loss: 9.546957
+2019-10-10 20:55:02,606 - log\train.log - INFO - iteration:1 step:3300/23196, NER loss: 9.647845
+2019-10-10 20:55:44,893 - log\train.log - INFO - iteration:1 step:3400/23196, NER loss:11.411184
+2019-10-10 20:56:27,432 - log\train.log - INFO - iteration:1 step:3500/23196, NER loss: 9.896680
+2019-10-10 20:57:09,169 - log\train.log - INFO - iteration:1 step:3600/23196, NER loss:10.109956
+2019-10-10 20:57:53,837 - log\train.log - INFO - iteration:1 step:3700/23196, NER loss:11.962292
+2019-10-10 20:58:35,866 - log\train.log - INFO - iteration:1 step:3800/23196, NER loss:11.167439
+2019-10-10 20:59:18,819 - log\train.log - INFO - iteration:1 step:3900/23196, NER loss:11.056624
