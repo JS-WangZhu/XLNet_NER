@@ -6,7 +6,7 @@
 
 ### *Datasets & Model*
 
-训练本模型的主要标记数据，来自于zjy-usas的[ChineseNER](https://github.com/zjy-ucas/ChineseNER)项目。本项目在原本的BiLSTM+CRF的框架前，添加了XLNet模型作为embedding的特征获取层，预训练的中文XLNet模型及代码来自于Google Research。
+本项目使用的是微软MSRA提供的中文数据集，项目在原本的BiLSTM+CRF的框架前，添加了XLNet模型作为embedding的特征获取层，预训练的中文XLNet模型及代码来自于Google Research。
 
 ### *Train*
 
